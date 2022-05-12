@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: c6be6b61b77a8a04098d4cc63dab3ef9
+timeCreated: 1458009289
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Room_bedroom
+    100002: Room_bedroom.000
+    100004: Room_diningR
+    100006: Room_entrywa
+    100008: Room_gameRoo
+    100010: Room_homeOff
+    100012: Room_homeThe
+    100014: Room_kitchen
+    100016: Room_largeBe
+    100018: Room_livingR
+    100020: Room_loungeA
+    100022: Room_restRoo
+    100024: Room_restroo
+    100026: Room_restRoo.000
+    100028: Room_storage
+    100030: //RootNode
+    400000: Room_bedroom
+    400002: Room_bedroom.000
+    400004: Room_diningR
+    400006: Room_entrywa
+    400008: Room_gameRoo
+    400010: Room_homeOff
+    400012: Room_homeThe
+    400014: Room_kitchen
+    400016: Room_largeBe
+    400018: Room_livingR
+    400020: Room_loungeA
+    400022: Room_restRoo
+    400024: Room_restroo
+    400026: Room_restRoo.000
+    400028: Room_storage
+    400030: //RootNode
+    2300000: Room_bedroom
+    2300002: Room_bedroom.000
+    2300004: Room_diningR
+    2300006: Room_entrywa
+    2300008: Room_gameRoo
+    2300010: Room_homeOff
+    2300012: Room_homeThe
+    2300014: Room_kitchen
+    2300016: Room_largeBe
+    2300018: Room_livingR
+    2300020: Room_loungeA
+    2300022: Room_restRoo
+    2300024: Room_restroo
+    2300026: Room_restRoo.000
+    2300028: Room_storage
+    3300000: Room_bedroom
+    3300002: Room_bedroom.000
+    3300004: Room_diningR
+    3300006: Room_entrywa
+    3300008: Room_gameRoo
+    3300010: Room_homeOff
+    3300012: Room_homeThe
+    3300014: Room_kitchen
+    3300016: Room_largeBe
+    3300018: Room_livingR
+    3300020: Room_loungeA
+    3300022: Room_restRoo
+    3300024: Room_restroo
+    3300026: Room_restRoo.000
+    3300028: Room_storage
+    4300000: Room_entrywa
+    4300002: Room_largeBe
+    4300004: Room_restroo
+    4300006: Room_homeOff
+    4300008: Room_storage
+    4300010: Room_bedroom
+    4300012: Room_bedroom.000
+    4300014: Room_loungeA
+    4300016: Room_restRoo
+    4300018: Room_homeThe
+    4300020: Room_gameRoo
+    4300022: Room_restRoo.000
+    4300024: Room_livingR
+    4300026: Room_diningR
+    4300028: Room_kitchen
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

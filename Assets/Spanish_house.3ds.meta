@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 8ed06acd50e874c4c880e6665f37dc16
+timeCreated: 1457996941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bathroom sin
+    100002: bathroom sin.000
+    100004: bathroom sin.001
+    100006: bookshelf
+    100008: boxes
+    100010: boxes.001
+    100012: boxes.002
+    100014: Car
+    100016: Car.001
+    100018: Car.002
+    100020: Car.003
+    100022: chair
+    100024: chair.001
+    100026: chair.002
+    100028: chair.003
+    100030: chair.004
+    100032: chair.005
+    100034: chair.006
+    100036: chair.007
+    100038: coat hanger
+    100040: coffee table
+    100042: coffee table.000
+    100044: couch
+    100046: couch.001
+    100048: 'counter and '
+    100050: Cube.000
+    100052: Cube.001
+    100054: Cube.002
+    100056: Cube.004
+    100058: Cube.005
+    100060: Cube.006
+    100062: Cube.007
+    100064: Cube.008
+    100066: Cube.027
+    100068: desk
+    100070: door
+    100072: door.001
+    100074: door.002
+    100076: door.003
+    100078: door.004
+    100080: door.005
+    100082: door.006
+    100084: door.007
+    100086: door.008
+    100088: door.009
+    100090: doormat
+    100092: Dresser
+    100094: Dresser.001
+    100096: drive way
+    100098: filing cabin
+    100100: fridge
+    100102: front porch
+    100104: gaming tv
+    100106: ground and b
+    100108: home theater
+    100110: home theater.000
+    100112: lamp
+    100114: large bed
+    100116: large dresse
+    100118: large shower
+    100120: level 1
+    100122: level 2
+    100124: level 3
+    100126: lounging cha
+    100128: lounging cha.000
+    100130: lounging cha.001
+    100132: mirror
+    100134: mirror.001
+    100136: mirror.002
+    100138: monitor
+    100140: office desk
+    100142: office monit
+    100144: oven
+    100146: projector
+    100148: projector im
+    100150: railing
+    100152: rug
+    100154: shelf
+    100156: shelves
+    100158: shower
+    100160: shower.001
+    100162: Side table
+    100164: Side table.0
+    100166: sink
+    100168: sink faucet
+    100170: Small bed 1
+    100172: Small bed 1.
+    100174: //RootNode
+    100176: speaker
+    100178: speaker.001
+    100180: speaker.002
+    100182: speaker.003
+    100184: stairway
+    100186: table
+    100188: Tires
+    100190: Tires.001
+    100192: Tires.002
+    100194: Tires.003
+    100196: toilet
+    100198: toilet.001
+    100200: toilet.002
+    100202: trash can
+    100204: tv
+    100206: tv stand
+    100208: tv stand.001
+    100210: upper cabine
+    100212: window
+    100214: window.001
+    100216: window.002
+    100218: window.003
+    100220: window.004
+    100222: window.005
+    100224: window.006
+    100226: window.007
+    100228: window.008
+    100230: window.009
+    100232: window.010
+    100234: windows
+    400000: bathroom sin
+    400002: bathroom sin.000
+    400004: bathroom sin.001
+    400006: bookshelf
+    400008: boxes
+    400010: boxes.001
+    400012: boxes.002
+    400014: Car
+    400016: Car.001
+    400018: Car.002
+    400020: Car.003
+    400022: chair
+    400024: chair.001
+    400026: chair.002
+    400028: chair.003
+    400030: chair.004
+    400032: chair.005
+    400034: chair.006
+    400036: chair.007
+    400038: coat hanger
+    400040: coffee table
+    400042: coffee table.000
+    400044: couch
+    400046: couch.001
+    400048: 'counter and '
+    400050: Cube.000
+    400052: Cube.001
+    400054: Cube.002
+    400056: Cube.004
+    400058: Cube.005
+    400060: Cube.006
+    400062: Cube.007
+    400064: Cube.008
+    400066: Cube.027
+    400068: desk
+    400070: door
+    400072: door.001
+    400074: door.002
+    400076: door.003
+    400078: door.004
+    400080: door.005
+    400082: door.006
+    400084: door.007
+    400086: door.008
+    400088: door.009
+    400090: doormat
+    400092: Dresser
+    400094: Dresser.001
+    400096: drive way
+    400098: filing cabin
+    400100: fridge
+    400102: front porch
+    400104: gaming tv
+    400106: ground and b
+    400108: home theater
+    400110: home theater.000
+    400112: lamp
+    400114: large bed
+    400116: large dresse
+    400118: large shower
+    400120: level 1
+    400122: level 2
+    400124: level 3
+    400126: lounging cha
+    400128: lounging cha.000
+    400130: lounging cha.001
+    400132: mirror
+    400134: mirror.001
+    400136: mirror.002
+    400138: monitor
+    400140: office desk
+    400142: office monit
+    400144: oven
+    400146: projector
+    400148: projector im
+    400150: railing
+    400152: rug
+    400154: shelf
+    400156: shelves
+    400158: shower
+    400160: shower.001
+    400162: Side table
+    400164: Side table.0
+    400166: sink
+    400168: sink faucet
+    400170: Small bed 1
+    400172: Small bed 1.
+    400174: //RootNode
+    400176: speaker
+    400178: speaker.001
+    400180: speaker.002
+    400182: speaker.003
+    400184: stairway
+    400186: table
+    400188: Tires
+    400190: Tires.001
+    400192: Tires.002
+    400194: Tires.003
+    400196: toilet
+    400198: toilet.001
+    400200: toilet.002
+    400202: trash can
+    400204: tv
+    400206: tv stand
+    400208: tv stand.001
+    400210: upper cabine
+    400212: window
+    400214: window.001
+    400216: window.002
+    400218: window.003
+    400220: window.004
+    400222: window.005
+    400224: window.006
+    400226: window.007
+    400228: window.008
+    400230: window.009
+    400232: window.010
+    400234: windows
+    2300000: bathroom sin
+    2300002: bathroom sin.000
+    2300004: bathroom sin.001
+    2300006: bookshelf
+    2300008: boxes
+    2300010: boxes.001
+    2300012: boxes.002
+    2300014: Car
+    2300016: Car.001
+    2300018: Car.002
+    2300020: Car.003
+    2300022: chair
+    2300024: chair.001
+    2300026: chair.002
+    2300028: chair.003
+    2300030: chair.004
+    2300032: chair.005
+    2300034: chair.006
+    2300036: chair.007
+    2300038: coat hanger
+    2300040: coffee table
+    2300042: coffee table.000
+    2300044: couch
+    2300046: couch.001
+    2300048: 'counter and '
+    2300050: Cube.000
+    2300052: Cube.001
+    2300054: Cube.002
+    2300056: Cube.004
+    2300058: Cube.005
+    2300060: Cube.006
+    2300062: Cube.007
+    2300064: Cube.008
+    2300066: Cube.027
+    2300068: desk
+    2300070: door
+    2300072: door.001
+    2300074: door.002
+    2300076: door.003
+    2300078: door.004
+    2300080: door.005
+    2300082: door.006
+    2300084: door.007
+    2300086: door.008
+    2300088: door.009
+    2300090: doormat
+    2300092: Dresser
+    2300094: Dresser.001
+    2300096: drive way
+    2300098: filing cabin
+    2300100: fridge
+    2300102: front porch
+    2300104: gaming tv
+    2300106: ground and b
+    2300108: home theater
+    2300110: home theater.000
+    2300112: lamp
+    2300114: large bed
+    2300116: large dresse
+    2300118: large shower
+    2300120: level 1
+    2300122: level 2
+    2300124: level 3
+    2300126: lounging cha
+    2300128: lounging cha.000
+    2300130: lounging cha.001
+    2300132: mirror
+    2300134: mirror.001
+    2300136: mirror.002
+    2300138: monitor
+    2300140: office desk
+    2300142: office monit
+    2300144: oven
+    2300146: projector
+    2300148: projector im
+    2300150: railing
+    2300152: rug
+    2300154: shelf
+    2300156: shelves
+    2300158: shower
+    2300160: shower.001
+    2300162: Side table
+    2300164: Side table.0
+    2300166: sink
+    2300168: sink faucet
+    2300170: Small bed 1
+    2300172: Small bed 1.
+    2300174: speaker
+    2300176: speaker.001
+    2300178: speaker.002
+    2300180: speaker.003
+    2300182: stairway
+    2300184: table
+    2300186: Tires
+    2300188: Tires.001
+    2300190: Tires.002
+    2300192: Tires.003
+    2300194: toilet
+    2300196: toilet.001
+    2300198: toilet.002
+    2300200: trash can
+    2300202: tv
+    2300204: tv stand
+    2300206: tv stand.001
+    2300208: upper cabine
+    2300210: window
+    2300212: window.001
+    2300214: window.002
+    2300216: window.003
+    2300218: window.004
+    2300220: window.005
+    2300222: window.006
+    2300224: window.007
+    2300226: window.008
+    2300228: window.009
+    2300230: window.010
+    2300232: windows
+    3300000: bathroom sin
+    3300002: bathroom sin.000
+    3300004: bathroom sin.001
+    3300006: bookshelf
+    3300008: boxes
+    3300010: boxes.001
+    3300012: boxes.002
+    3300014: Car
+    3300016: Car.001
+    3300018: Car.002
+    3300020: Car.003
+    3300022: chair
+    3300024: chair.001
+    3300026: chair.002
+    3300028: chair.003
+    3300030: chair.004
+    3300032: chair.005
+    3300034: chair.006
+    3300036: chair.007
+    3300038: coat hanger
+    3300040: coffee table
+    3300042: coffee table.000
+    3300044: couch
+    3300046: couch.001
+    3300048: 'counter and '
+    3300050: Cube.000
+    3300052: Cube.001
+    3300054: Cube.002
+    3300056: Cube.004
+    3300058: Cube.005
+    3300060: Cube.006
+    3300062: Cube.007
+    3300064: Cube.008
+    3300066: Cube.027
+    3300068: desk
+    3300070: door
+    3300072: door.001
+    3300074: door.002
+    3300076: door.003
+    3300078: door.004
+    3300080: door.005
+    3300082: door.006
+    3300084: door.007
+    3300086: door.008
+    3300088: door.009
+    3300090: doormat
+    3300092: Dresser
+    3300094: Dresser.001
+    3300096: drive way
+    3300098: filing cabin
+    3300100: fridge
+    3300102: front porch
+    3300104: gaming tv
+    3300106: ground and b
+    3300108: home theater
+    3300110: home theater.000
+    3300112: lamp
+    3300114: large bed
+    3300116: large dresse
+    3300118: large shower
+    3300120: level 1
+    3300122: level 2
+    3300124: level 3
+    3300126: lounging cha
+    3300128: lounging cha.000
+    3300130: lounging cha.001
+    3300132: mirror
+    3300134: mirror.001
+    3300136: mirror.002
+    3300138: monitor
+    3300140: office desk
+    3300142: office monit
+    3300144: oven
+    3300146: projector
+    3300148: projector im
+    3300150: railing
+    3300152: rug
+    3300154: shelf
+    3300156: shelves
+    3300158: shower
+    3300160: shower.001
+    3300162: Side table
+    3300164: Side table.0
+    3300166: sink
+    3300168: sink faucet
+    3300170: Small bed 1
+    3300172: Small bed 1.
+    3300174: speaker
+    3300176: speaker.001
+    3300178: speaker.002
+    3300180: speaker.003
+    3300182: stairway
+    3300184: table
+    3300186: Tires
+    3300188: Tires.001
+    3300190: Tires.002
+    3300192: Tires.003
+    3300194: toilet
+    3300196: toilet.001
+    3300198: toilet.002
+    3300200: trash can
+    3300202: tv
+    3300204: tv stand
+    3300206: tv stand.001
+    3300208: upper cabine
+    3300210: window
+    3300212: window.001
+    3300214: window.002
+    3300216: window.003
+    3300218: window.004
+    3300220: window.005
+    3300222: window.006
+    3300224: window.007
+    3300226: window.008
+    3300228: window.009
+    3300230: window.010
+    3300232: windows
+    4300000: door.007
+    4300002: door.003
+    4300004: door.002
+    4300006: Tires.003
+    4300008: Car.003
+    4300010: Car.002
+    4300012: Tires.002
+    4300014: Tires.001
+    4300016: Car.001
+    4300018: window.010
+    4300020: window.009
+    4300022: window.008
+    4300024: window.007
+    4300026: window.006
+    4300028: window.005
+    4300030: window.004
+    4300032: window.003
+    4300034: window.002
+    4300036: windows
+    4300038: window.001
+    4300040: window
+    4300042: Small bed 1.
+    4300044: drive way
+    4300046: trash can
+    4300048: chair.007
+    4300050: chair.006
+    4300052: large shower
+    4300054: mirror.002
+    4300056: bathroom sin.000
+    4300058: toilet.002
+    4300060: office monit
+    4300062: filing cabin
+    4300064: office desk
+    4300066: lamp
+    4300068: Side table.0
+    4300070: large dresse
+    4300072: large bed
+    4300074: Dresser.001
+    4300076: Dresser
+    4300078: Side table
+    4300080: Small bed 1
+    4300082: toilet.001
+    4300084: shower.001
+    4300086: bathroom sin.001
+    4300088: mirror.001
+    4300090: speaker.003
+    4300092: speaker.002
+    4300094: speaker.001
+    4300096: speaker
+    4300098: home theater
+    4300100: home theater.000
+    4300102: projector
+    4300104: projector im
+    4300106: gaming tv
+    4300108: tv stand.001
+    4300110: shelf
+    4300112: coffee table.000
+    4300114: lounging cha
+    4300116: couch.001
+    4300118: railing
+    4300120: rug
+    4300122: doormat
+    4300124: coat hanger
+    4300126: bookshelf
+    4300128: coffee table
+    4300130: tv
+    4300132: tv stand
+    4300134: lounging cha.000
+    4300136: couch
+    4300138: mirror
+    4300140: bathroom sin
+    4300142: shower
+    4300144: toilet
+    4300146: upper cabine
+    4300148: 'counter and '
+    4300150: fridge
+    4300152: oven
+    4300154: sink faucet
+    4300156: sink
+    4300158: boxes.002
+    4300160: boxes.001
+    4300162: boxes
+    4300164: shelves
+    4300166: chair
+    4300168: chair.001
+    4300170: chair.003
+    4300172: chair.004
+    4300174: chair.005
+    4300176: chair.002
+    4300178: table
+    4300180: door.008
+    4300182: door.006
+    4300184: door.005
+    4300186: door.004
+    4300188: door.001
+    4300190: door.009
+    4300192: door
+    4300194: stairway
+    4300196: level 3
+    4300198: Cube.002
+    4300200: Cube.001
+    4300202: Cube.000
+    4300204: Cube.027
+    4300206: Cube.008
+    4300208: Cube.007
+    4300210: Cube.006
+    4300212: Cube.004
+    4300214: Cube.005
+    4300216: level 2
+    4300218: level 1
+    4300220: front porch
+    4300222: ground and b
+    4300224: desk
+    4300226: monitor
+    4300228: lounging cha.001
+    4300230: Car
+    4300232: Tires
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
